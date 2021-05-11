@@ -1,4 +1,4 @@
-# Reinforce-Learning-Algorithm-Blackjack
+# Deep-Learning-Algorithm-Blackjack
 
 Deep Learning Blackjack is a set of an adam-optimizer generated neural networks that are trained to play blackjack. In order to create this model, we created our own training dataset. This dataset is built upon two subsets of data, consisting of simulated blackjack games. First, a set of simulated games created using the safe action method, and second, a set of simulated games created using a random action method. For each subset, we generated 170,000 completed blackjack games, and merged them all into a training dataset. We have trained each test neural network on 3 different datasets using the adam optimizer algorithm. The result is a capable blackjack playing neural network.
 
