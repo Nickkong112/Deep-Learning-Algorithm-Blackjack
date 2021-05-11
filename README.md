@@ -22,3 +22,5 @@ Below is the statistical table from a deep learning AI that is trained on the ra
        9   H  H  H  S  S  H  H  S  S  S  S            9   H  H  H  S  S  S  S  H  S  S  S  
       10   H  H  H  H  S  S  S  H  S  S  S           10   H  H  H  H  S  S  H  H  S  S  S  
       11   S  S  H  H  S  H  H  S  H  S  S           11   H  S  S  S  S  H  H  H  S  H  S
+
+We can see how our model will play based on the inputs of the player’s cards, dealer face up card, and if the player has an ace or not. Our AI table is currently not ideal for making a profit against the dealer, but our AI is able to play blackjack with an overall win average of 32%.
